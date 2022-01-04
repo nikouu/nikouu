@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - ✍ I blog at [nikouusitalo.com](https://www.nikouusitalo.com/)
 - 📫 How to reach me: Check out my [about page](https://www.nikouusitalo.com/about/)
 - 😄 Pronouns: He/Him
+- 🌏 Country: From :finland: Finland but in :new_zealand: New Zealand 
 - ⚡ Fun fact: Pokémon still does it for me 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W67RPS1)
