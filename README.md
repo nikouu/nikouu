@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Check out my [about page](https://www.nikouusitalo.com/about/)
 - 😄 Pronouns: He/Him
 - 🌏 Country: From :finland: Finland but in :new_zealand: New Zealand 
-- ⚡ Fun fact: Pokémon still does it for me 
+- ⚡ Fun fact: [Pokémon still does it for me](https://www.nikouusitalo.com/blog/making-a-living-dex-part-1-a-lifelong-dream/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W67RPS1)
 
