@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on little projects that fascinate me
+- 🔭 I’m currently working on little fascinating projects
 - 🌱 I’m currently learning the cutting edge of .NET
 - ✍ I blog at [nikouusitalo.com](https://www.nikouusitalo.com/)
 - 📫 How to reach me: Check out my [about page](https://www.nikouusitalo.com/about/)
