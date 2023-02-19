@@ -26,6 +26,4 @@ Here are some ideas to get you started:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W67RPS1)
 
-And for a bit of colour on this page, check out this custom GB Pokémon styled building:
-
-![ayylamo](https://user-images.githubusercontent.com/983351/148045313-67b5744a-cd5a-40e8-9860-9e0c63cba75f.png)
+![image](images/background2.gif)
