@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on little fascinating projects
-- 🌱 I’m currently learning how to [shift the smallest number of bytes the fastest](https://github.com/nikouu/dotnet-optimization-cheatsheet)
+- 🌱 I’m currently learning how to shift the [smallest number of bytes](https://github.com/nikouu/TinyWordle) the [fastest](https://github.com/nikouu/dotnet-optimization-cheatsheet)
 - ✍ I blog at [nikouusitalo.com](https://www.nikouusitalo.com/)
 - 📫 How to reach me: Check out my [about page](https://www.nikouusitalo.com/about/)
 - 😄 Pronouns: He/Him
