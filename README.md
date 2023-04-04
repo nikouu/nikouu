@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ![image](images/background2.gif)
 
-Enjoy rummaging through my assorted collection of trinkets, snippets, baubles, and projects.
+✨ Enjoy rummaging through my assorted collection of trinkets, snippets, baubles, and projects. ✨
