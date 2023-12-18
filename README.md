@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ![image](images/background2.gif)
 
 ✨ Enjoy rummaging through my assorted collection of trinkets, snippets, baubles, and projects ✨
+
+📖 Want to check out everything per topic? Check out my [directory](https://github.com/nikouu/Directory)! 📖
